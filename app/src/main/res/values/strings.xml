@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StartActivityForResult</string>
+    <string name="txvMessage">Introduce una cadena de carácteres</string>
+    <string name="btnSend">Enviar cadena</string>
+    <string name="btnCancel">Cancelar</string>
+    <string name="btnName">Nombre</string>
+    <string name="btnSurname">Apellido</string>
+    <string name="txvName">Nombre del usuario:</string>
+    <string name="txvSurname">Apellido del usuario:</string>
+</resources>
